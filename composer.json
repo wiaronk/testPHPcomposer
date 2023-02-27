@@ -4,6 +4,7 @@
   "homepage": "https://github.com/wiaronk/testPHPcomposer",
   "type": "library",
   "minimum-stability": "stable",
+  "version": "1.0.0",
   "require": {
     "php": "^7.4 || ^8.0"
   },
