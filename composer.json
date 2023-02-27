@@ -1,0 +1,15 @@
+{
+  "name": "wiaronk/test",
+  "description": "test SDK",
+  "homepage": "https://github.com/wiaronk/testPHPcomposer",
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wiaronk\\Test\\": "src/"
+    }
+  }
+}
